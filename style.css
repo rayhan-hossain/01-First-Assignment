@@ -1,9 +1,10 @@
 header{
     background-image: url(images/donation5.jpg);
     background-repeat: no-repeat;
-    width: 100%;
+    background-position: 100%;
     color: white;
     text-align: center;
+    opacity: 0.7;
 }
 body{
     font-family: 'Poppins', sans-serif;
@@ -68,7 +69,18 @@ body{
 .flexible-container-donation-plan{
     display: flex;
 }
-
+.Food-For-a-family{
+    width: 20%;
+}
+.Shelter-For-a-family{
+    width: 20%;
+}
+.Education-for-a-child{
+    width: 20%;
+}
+.flexible-container-donation-plan-blank{
+    width: 20%;
+}
 
 
 
